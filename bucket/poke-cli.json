@@ -6,21 +6,21 @@
             "bin": [
                 "poke-cli.exe"
             ],
-            "hash": "0f345c40e942846fe2136ea68a9f928a13b84dfe6d5cb7c963b406ad528e2033"
+            "hash": "8fdb11bb2b6c665c1240f2da617a656d0ae47c8de231433236d8b97a770e6f37"
         },
         "64bit": {
             "url": "https://github.com/digitalghost-dev/poke-cli/releases/download/v1.6.0/poke-cli_Windows_x86_64.zip",
             "bin": [
                 "poke-cli.exe"
             ],
-            "hash": "3176e334056e1a4d82ac4273a05f66f632b1927dc9fc3afc611dcbd7711c5c26"
+            "hash": "c2b4d9966570bdc384c40e9668837ccae22092782a3f5080f82969a2183292bd"
         },
         "arm64": {
             "url": "https://github.com/digitalghost-dev/poke-cli/releases/download/v1.6.0/poke-cli_Windows_arm64.zip",
             "bin": [
                 "poke-cli.exe"
             ],
-            "hash": "bf56a0bf520063d27d0ba08bce8c853a23dff04bafbac2353882b226d6651b64"
+            "hash": "6f86621f170139b50ccdedeed3bee3ebadbe57543f510a120d8f68d8ad60c24c"
         }
     },
     "homepage": "https://docs.poke-cli.com/",
